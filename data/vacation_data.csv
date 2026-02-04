@@ -1,0 +1,151 @@
+destination,property_type,nightly_rate,guest_capacity,rating,num_reviews,has_pool,season
+Panama City Beach,house,82.0,2,4.5,70,False,winter
+Myrtle Beach,condo,482.0,9,4.0,463,True,fall
+Destin,house,380.0,6,4.9,311,True,spring
+Outer Banks,condo,117.0,3,2.8,122,False,spring
+Key West,apartment,297.0,11,4.6,255,False,winter
+Pigeon Forge,apartment,126.0,2,3.6,314,True,spring
+Panama City Beach,house,275.0,11,3.8,184,False,spring
+Destin,apartment,550.0,10,2.6,198,True,fall
+Panama City Beach,condo,84.0,2,3.1,336,False,winter
+Destin,apartment,344.0,7,3.9,416,True,winter
+Gulf Shores,apartment,252.0,9,2.7,397,False,spring
+Asheville,house,242.0,6,4.7,161,True,winter
+Hilton Head,apartment,246.4,8,4.4,97,False,summer
+Hilton Head,condo,75.6,2,4.5,223,False,summer
+Key West,apartment,390.6,9,3.7,254,False,summer
+Panama City Beach,apartment,200.0,6,3.6,421,True,fall
+Gulf Shores,apartment,150.0,6,3.3,151,False,winter
+Hilton Head,condo,528.0,11,3.4,21,False,spring
+Panama City Beach,apartment,192.0,8,4.2,207,False,winter
+Panama City Beach,apartment,398.0,12,4.6,347,True,winter
+Asheville,house,222.0,4,3.4,486,True,spring
+Pigeon Forge,house,523.0,11,3.4,390,True,fall
+Destin,apartment,160.0,4,4.1,127,False,fall
+Destin,house,220.0,4,2.8,396,False,fall
+Hilton Head,apartment,712.6,9,3.0,69,True,summer
+Destin,condo,160.0,4,4.2,363,False,winter
+Destin,apartment,420.0,10,4.3,474,False,summer
+Gulf Shores,condo,370.0,10,4.5,121,True,winter
+Asheville,house,385.0,7,2.8,452,False,fall
+Destin,house,318.0,6,3.5,209,False,fall
+Pigeon Forge,house,192.0,4,3.7,264,False,winter
+Panama City Beach,house,520.0,10,3.8,444,True,spring
+Myrtle Beach,house,490.0,10,2.9,478,True,summer
+Gatlinburg,condo,360.0,10,3.0,489,False,winter
+Outer Banks,condo,208.0,4,4.1,303,False,winter
+Pigeon Forge,house,84.0,4,2.7,485,False,winter
+Pigeon Forge,condo,758.0,12,4.1,254,True,fall
+Outer Banks,condo,420.0,12,4.5,350,False,fall
+Key West,condo,320.0,9,3.6,247,True,winter
+Asheville,house,462.0,7,4.3,440,True,summer
+Panama City Beach,condo,160.0,4,3.1,62,False,winter
+Hilton Head,condo,165.0,5,3.2,196,True,winter
+Pigeon Forge,condo,462.0,5,4.3,97,True,summer
+Gulf Shores,condo,390.0,10,3.7,46,False,fall
+Key West,apartment,563.0,9,3.4,25,True,spring
+Hilton Head,condo,831.6,11,2.5,55,False,summer
+Key West,house,258.0,6,2.6,26,False,fall
+Pigeon Forge,apartment,168.0,5,3.5,230,False,summer
+Outer Banks,condo,336.0,11,3.5,406,True,spring
+Panama City Beach,apartment,456.0,7,3.8,256,True,spring
+Myrtle Beach,house,210.0,2,3.8,76,True,summer
+Pigeon Forge,apartment,168.0,4,3.5,315,False,summer
+Hilton Head,apartment,490.0,7,4.5,188,False,summer
+Panama City Beach,apartment,252.0,3,2.6,242,False,summer
+Hilton Head,apartment,677.0,11,3.7,268,True,winter
+Pigeon Forge,condo,274.0,4,4.9,56,True,winter
+Gatlinburg,house,261.0,9,3.5,104,False,fall
+Key West,apartment,308.0,11,3.8,287,False,winter
+Panama City Beach,apartment,390.6,9,3.6,272,False,summer
+Panama City Beach,apartment,224.0,7,4.9,142,False,fall
+Outer Banks,condo,231.0,5,4.2,250,False,summer
+Panama City Beach,condo,264.6,7,3.9,278,False,summer
+Key West,condo,285.6,7,3.2,365,True,summer
+Destin,condo,297.0,9,3.0,275,False,fall
+Hilton Head,apartment,404.0,6,4.4,122,True,winter
+Gatlinburg,house,326.0,12,2.8,169,True,spring
+Asheville,house,710.0,12,4.9,80,True,winter
+Key West,apartment,342.0,9,3.3,330,False,spring
+Myrtle Beach,house,422.0,12,3.5,428,True,winter
+Gulf Shores,house,304.0,8,4.7,4,False,spring
+Hilton Head,apartment,655.2,11,3.6,328,True,summer
+Outer Banks,apartment,383.0,9,3.0,57,True,fall
+Panama City Beach,house,180.0,9,4.3,404,False,spring
+Hilton Head,apartment,758.0,12,4.6,459,True,spring
+Key West,condo,450.0,10,4.2,94,False,winter
+Gulf Shores,condo,302.0,7,3.5,228,True,winter
+Hilton Head,condo,431.2,6,4.2,31,True,summer
+Destin,condo,362.0,6,4.8,454,True,fall
+Hilton Head,apartment,247.8,3,3.1,490,False,summer
+Gulf Shores,condo,257.6,4,4.3,467,False,summer
+Asheville,apartment,746.0,12,4.7,41,True,spring
+Outer Banks,condo,560.0,10,2.8,424,False,winter
+Outer Banks,apartment,250.0,5,4.6,226,True,spring
+Destin,apartment,260.0,5,3.6,28,False,winter
+Asheville,house,560.0,10,2.6,236,False,fall
+Hilton Head,apartment,56.0,2,4.4,296,False,summer
+Destin,house,432.0,8,5.0,478,False,winter
+Destin,condo,62.0,2,4.4,392,False,fall
+Key West,condo,352.0,8,2.7,493,False,fall
+Outer Banks,house,372.0,12,5.0,201,False,winter
+Outer Banks,house,245.0,5,3.7,368,True,winter
+Outer Banks,condo,350.0,10,3.7,79,False,spring
+Hilton Head,house,227.0,3,4.4,452,True,fall
+Myrtle Beach,house,340.0,5,2.6,306,True,winter
+Myrtle Beach,house,68.0,2,3.8,386,False,fall
+Myrtle Beach,house,560.0,10,3.3,306,False,spring
+Panama City Beach,house,326.0,6,3.3,31,True,spring
+Outer Banks,apartment,92.0,4,4.9,482,False,fall
+Key West,apartment,203.0,7,3.2,94,False,fall
+Outer Banks,condo,273.0,5,4.5,468,True,summer
+Myrtle Beach,apartment,352.0,8,3.1,104,False,spring
+Panama City Beach,apartment,105.0,3,3.8,424,False,summer
+Gatlinburg,house,144.0,6,3.0,389,False,winter
+Pigeon Forge,apartment,446.0,12,4.7,170,True,fall
+Hilton Head,house,300.0,5,4.8,356,True,winter
+Pigeon Forge,apartment,275.0,5,3.3,144,False,spring
+Key West,condo,504.0,10,3.4,451,False,summer
+Asheville,condo,138.6,3,3.4,211,False,summer
+Myrtle Beach,apartment,230.0,5,3.9,299,True,winter
+Pigeon Forge,apartment,256.0,8,3.3,194,False,spring
+Pigeon Forge,house,642.6,9,4.9,328,False,summer
+Asheville,condo,112.0,4,4.3,250,False,spring
+Gulf Shores,apartment,338.0,12,4.9,342,True,winter
+Myrtle Beach,house,242.0,8,4.3,4,True,spring
+Gatlinburg,apartment,531.0,9,4.1,478,False,winter
+Pigeon Forge,condo,240.0,12,3.8,210,False,winter
+Myrtle Beach,house,294.0,10,3.8,357,False,summer
+Key West,house,155.0,3,3.0,269,True,spring
+Hilton Head,condo,258.0,6,4.9,235,False,winter
+Pigeon Forge,house,110.0,5,2.7,194,False,winter
+Key West,apartment,320.0,9,2.7,432,True,winter
+Key West,apartment,288.0,7,3.0,444,True,winter
+Pigeon Forge,condo,272.0,6,4.7,288,True,winter
+Myrtle Beach,house,449.0,7,2.9,420,True,spring
+Key West,house,386.0,6,4.6,199,True,spring
+Outer Banks,condo,466.0,8,4.4,177,True,winter
+Myrtle Beach,house,378.0,8,4.0,314,True,winter
+Pigeon Forge,condo,540.4,7,3.7,182,True,summer
+Outer Banks,condo,250.0,8,4.4,151,True,fall
+Gatlinburg,apartment,191.8,3,3.4,401,True,summer
+Gulf Shores,apartment,291.2,8,2.7,482,False,summer
+Hilton Head,condo,196.0,7,2.7,220,False,winter
+Asheville,apartment,210.0,10,2.7,283,False,winter
+Destin,apartment,220.0,11,3.2,198,False,fall
+Destin,apartment,490.0,10,2.9,137,True,spring
+Hilton Head,condo,320.0,9,3.6,215,True,winter
+Hilton Head,condo,147.0,3,4.3,253,False,summer
+Pigeon Forge,apartment,140.0,5,3.3,485,False,winter
+Key West,condo,739.2,11,3.3,417,False,summer
+Pigeon Forge,house,300.0,6,3.3,493,False,spring
+Key West,condo,240.0,6,3.4,418,False,spring
+Key West,condo,215.0,3,2.6,372,True,spring
+Asheville,apartment,168.0,5,4.5,407,False,summer
+Key West,apartment,511.0,9,3.1,78,True,summer
+Key West,condo,171.0,3,3.5,259,False,fall
+Key West,apartment,52.0,2,4.4,336,False,winter
+Panama City Beach,house,542.0,12,4.9,220,True,fall
+Destin,house,156.0,3,4.4,285,False,spring
+Pigeon Forge,apartment,523.0,11,3.5,395,True,fall
+Pigeon Forge,apartment,364.0,10,3.7,151,True,summer

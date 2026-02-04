@@ -1,0 +1,15 @@
+# =============================================================
+# Python dependencies for the Pelham TSA Data Science project
+# =============================================================
+# Install everything at once by running:
+#     pip install -r requirements.txt
+#
+# If you're using a virtual environment (recommended!), activate
+# it first, then run the command above.
+# =============================================================
+
+pandas==2.2.2          # Data manipulation and analysis (think: spreadsheets in Python)
+matplotlib==3.9.2      # Creating charts, graphs, and plots
+seaborn==0.13.2        # Prettier statistical plots built on top of matplotlib
+numpy==1.26.4          # Fast math and array operations (pandas uses this under the hood)
+scikit-learn==1.5.1    # Machine learning & predictive analysis (we'll use this later)

@@ -1,0 +1,19 @@
+# Virtual environment — never commit this (it's huge and machine-specific)
+.venv/
+venv/
+env/
+
+# PyCharm / IDE settings (personal preferences, not project code)
+.idea/
+
+# Python bytecode cache (auto-generated, not needed in version control)
+__pycache__/
+*.pyc
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints (if you use notebooks later)
+.ipynb_checkpoints/
+
