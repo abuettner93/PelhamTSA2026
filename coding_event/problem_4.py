@@ -1,12 +1,12 @@
-mystring = "Hello my name is alex"
-print(mystring)
-if len(mystring) >8:
-    print("bad barcode")
+mystring = ["aaHIHI32", "89172389712398712"]
 
-regex_str = r"[a-zA-Z]{2}"
-num_regex_str = r'[0-9]{2}'
-first = mystring[:2]
-middle = mystring[2:-2]
-end = mystring[-2:]
+def validator(str):
+    if len(str) != 8:
+        return "Invalid"
+    if str[:2].isalpha() and str[2:-2].isupper() and str[-2:].isnumeric():
+        return "Valid"
+    return "Invalid"
 
-print(first, middle, end)
+for str in mystring:
+    print(validator(str))
+

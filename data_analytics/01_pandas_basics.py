@@ -35,8 +35,8 @@ print("\n--- First 5 rows (.head()) ---")
 print(housing.head())
 
 # .tail() shows the last 5 rows
-print("\n--- Last 3 rows (.tail(3)) ---")
-print(housing.tail(3))
+print("\n--- Last 5 rows (.tail(5)) ---")
+print(housing.tail(5))
 
 
 # ---- Step 4: How big is the dataset? -----------------------
